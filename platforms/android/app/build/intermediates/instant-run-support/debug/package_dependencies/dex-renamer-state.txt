@@ -1,0 +1,4 @@
+#Wed Dec 19 17:08:22 CST 2018
+base.0=C\:\\yuzhiqiang\\learn\\react_project\\CordovaProject\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\125
+path.0=classes.dex
+renamed.0=classes.dex
